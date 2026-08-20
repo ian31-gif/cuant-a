@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "cuantia-site",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/private/tmp/claude-501/-Users-ian-Downloads-cuantia-site/21daf5c6-2729-4ac5-a8e0-46d3ebb30470/scratchpad/serve-dist.py"],
+      "port": 4173
+    }
+  ]
+}

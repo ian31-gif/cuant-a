@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import os; print\\(os.getcwd\\(\\)\\)\")",
+      "Bash(which php *)"
+    ]
+  }
+}
