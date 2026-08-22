@@ -1,7 +1,7 @@
 module.exports = {
   name: "Cuantía",
   tagline: "Calculadoras financieras y plantillas claras para autónomos y decisiones de dinero del día a día",
-  baseUrl: "https://www.cuantía.es",
+  baseUrl: "https://www.cuantía.com",
   email: "ian.roureramis@gmail.com",
   year: new Date().getFullYear(),
 
