@@ -31,12 +31,8 @@ function headHtml(page) {
   <link rel="preconnect" href="https://api.frankfurter.dev">
   <link rel="stylesheet" href="/assets/css/styles.css">
   ${schemaBlocks}
-  <!--
-    AdSense: una vez tengas la cuenta aprobada, añade aquí el script de
-    verificación / auto ads de Google, o actívalo solo tras el consentimiento
-    de cookies (ver src/assets/js/main.js -> evento "cuantia:consent").
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script>
-  -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2603249159183684"
+     crossorigin="anonymous"></script>
 </head>`;
 }
 
